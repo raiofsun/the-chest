@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Book Wishlist</title>
+
+  <style>
+    table, th, td {
+      border: 1px navy solid;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 15px;
+    }
+    th {
+      text-align: center;
+    }
+  h1 {
+    color:cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  body {
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h2 {
+    font-family: cursive;
+  }
+
+  </style>
+</head>
+<body>
+  <h1>2019 Book Wishlist</h1>
+
+  <p>I am a bookworm, meaning that there are numerous books that I want to read. Over the years, I have been accumulating a lot of books to my list on Goodreads. Here are some of them.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Last Name</th>
+        <th>First Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>The Woman in the Window</td>
+        <td>Finn</td>
+        <td>A.J.</td>
+      </tr>
+      <tr>
+        <td>The Power</td>
+        <td>Alderman</td>
+        <td>Naomi</td>
+        </tr>
+      <tr>
+        <td>Lesson in Thorns</td>
+        <td>Simone</td>
+        <td>Sierra</td>
+          </tr>
+      <tr>
+        <td>More Than Words</td>
+        <td>Santopolo</td>
+        <td>Jill</td>
+      </tr>
+      <tr>
+          <td>Serious Moonlight</td>
+          <td>Bennett</td>
+          <td>Jenn</td>
+      </tr>
+      <tr>
+          <td>You Asked For Perfect</td>
+          <td>Silverman</td>
+          <td>Laura</td>
+      </tr>
+      <tr>
+          <td>Prince Charming</td>
+          <td>Hawkins</td>
+          <td>Rachel</td>
+      </tr>
+      <tr>
+          <td>The Institute</td>
+          <td>King</td>
+          <td>Stephen</td>
+      </tr>
+      <tr>
+          <td>Radio Silence</td>
+          <td>Oseman</td>
+          <td>Alice</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+
+  <h2>Author's Sites</h2>
+
+  <p> <a href="https://www.harpercollins.com/author/cr-128178/a-j-finn/" target="_blank">A.J. Finn</a> is new author but has done various publications for <em>The Los Angeles Times</em>, <em>Washington Post</em>, <em>Times Literay Supplement</em>.</p>
+
+  <p><a href="http://www.naomialderman.com/" target="_blank">Naomi Alderman</a> is known for her short fiction and other novels.</p>
+
+  <p><a href="https://www.thesierrasimone.com/" target="_blank">Sierra Simone</a> is known for her "risque" novels.</p>
+
+  <p><a href="http://jillsantopolo.com/" target="_blank">Jill Santopolo</a> is a <em>New York Times</em> best-selling author.</p>
+
+  <p><a href="https://www.jennbennett.net/" target="_blank">Jenn Bennett</a> is a native German YA author.</p>
+
+  <p><a href="https://www.laurasilvermanwrites.com/" target="_blank">Laura Silverman</a> is an author and freelance editor.</p>
+
+  <p><a href="https://www.penguinrandomhouse.com/authors/242839/rachel-hawkins" target="_blank">Rachel Hawkins</a> is a Virginia-born YA author.</p>
+
+  <p><a href="https://www.stephenking.com/" target="_blank">Stephen King</a> is a prolific American writer.</p>
+  
+  <p><a href="https://www.aliceoseman.com/" target="_blank">Alice Oseman</a> is an English writer.</p>
+</body>
+</html>
